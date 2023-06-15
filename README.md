@@ -127,7 +127,7 @@ The plot generated after training and testing the models shows the predicted sto
 
 These results demonstrate the effectiveness of the LSTM and Conv1D models in predicting stock market prices based on the provided dataset.
 
-Feel free to update the README file with any additional information or insights you want to include.
+
 
 ## Contributing
 
